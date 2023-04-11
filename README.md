@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashanka Luitel</h1>
-<h3 align="center">An enthusiast web developer from Nepal</h3>
+<h3 align="center">An enthusiast web developer and UI/UX designer from Nepal</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashanka10&label=Profile%20views&color=0e75b6&style=flat" alt="shashanka10" /> </p>
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Battleship](https://github.com/crusty-crab/Battleship)
+- 🔭 I’m currently working on [Trek-Diaries]([https://github.com/Re-Dei-s-Organization/Trek-Diaries])
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **NEXTJS 13**
 
-- 💬 Ask me about **react, html, CSS, Qt, SASS**
+- 💬 Ask me about **REACTJS, html, CSS, Qt, SASS,NEXTJS**
 
 - 📫 How to reach me **sbishalluitel7@gmail.com**
 
