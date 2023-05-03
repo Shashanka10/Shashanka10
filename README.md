@@ -60,9 +60,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashanka10&theme=radical&show_icons=true&hide_border=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=shashanka10&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=20&date_format=j M[ Y]" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashanka10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashanka10&show_icons=true&locale=en&layout=compact" alt="shashanka10" />
+
+&nbsp;<img height="180" src="https://github-readme-stats.vercel.app/api?username=shashanka10&show_icons=true&locale=en" alt="shashanka10" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanka10&" alt="shashanka10" />
 </div>
 
 ###
