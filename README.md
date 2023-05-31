@@ -60,10 +60,7 @@
 ###
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashanka10&show_icons=true&locale=en&layout=compact" alt="shashanka10" />
-
-&nbsp;<img height="180" src="https://github-readme-stats.vercel.app/api?username=shashanka10&show_icons=true&locale=en" alt="shashanka10" />
-
+  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanka10&" alt="shashanka10" />
 </div>
 
