@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center">An enthusiast web developer and UI/UX designer from Nepal</p> 
+<p align="center">A tech enthusiast and UI/UX designer from Nepal</p> 
 <!-- Begin: HubSpot Academy - Digital Marketing  Badge -->
 <div class='academy-badge' align='center' >
 <a href='https://app.hubspot.com/academy/achievements/jgn891m3/en/1/shashanka-luitel/digital-marketing' title='Digital Marketing '>
