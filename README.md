@@ -4,12 +4,6 @@
 ###
 
 <p align="center">A tech enthusiast and UI/UX designer from Nepal</p> 
-<!-- Begin: HubSpot Academy - Digital Marketing  Badge -->
-<div class='academy-badge' align='center' >
-<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/8b423273a0ab41f898c23035da8e211c.png'  width= "200px" height= "100px" />
-</a>
-</div>
-<!-- End: HubSpot Academy - Digital Marketing  Badge -->
 <p align="center" >You can visit my website from here 👉👉👉 www.luitelshashanka.com.np</p>
 
 
