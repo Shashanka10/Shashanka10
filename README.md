@@ -1,10 +1,10 @@
 ![banner](https://user-images.githubusercontent.com/71580178/235372404-6f141b57-d692-43a3-b5e2-f753d394200c.png)
-<h1 align="center">Hi 👋👋</h1>
+<h1 align="center">Hi 👋</h1>
 
 ###
 
 <p align="center">A tech enthusiast and UI/UX designer from Nepal</p> 
-<p align="center" >You can visit my website from here 👉👉👉 www.luitelshashanka.com.np</p>
+<p align="center" >You can visit my website from here 👉 www.luitelshashanka.com.np</p>
 
 
 ###
