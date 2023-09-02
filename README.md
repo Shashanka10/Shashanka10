@@ -3,8 +3,8 @@
 
 ###
 
-<p align="center">A tech enthusiast and UI/UX designer from Nepal</p> 
-<p align="center" >You can visit my website from here 👉 www.luitelshashanka.com.np</p>
+<p align="center">A tech enthusiast from Nepal</p> 
+<p align="center" >You can visit my personal website from here 👉 www.luitelshashanka.com.np</p>
 
 
 ###
