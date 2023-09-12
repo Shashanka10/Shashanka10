@@ -64,7 +64,7 @@
 
 <div align="center">
 <h4>[Shashanka's GitHub stats]</h4>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashanka10&show_icons=true&theme=default" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashanka10" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanka10&" alt="shashanka10" />
 
 </div>
