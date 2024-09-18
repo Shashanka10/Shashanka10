@@ -1,10 +1,15 @@
 ![banner](https://user-images.githubusercontent.com/71580178/235372404-6f141b57-d692-43a3-b5e2-f753d394200c.png)
-<h1 align="center">Hi there 👋👋 Welcome (Bienvenue)</h1>
+<h1 align="center">Hi there 👋👋 Welcome (Namaste 🙏) 🇳🇵</h1>
 
 ###
 
-<p align="center">A tech enthusiast from Nepal</p> 
-<p align="center" >You can visit my personal website from here 👉 www.luitelshashanka.com.np</p>
+<p align="center">A front end developer and a tech enthusiast from Nepal </p> 
+<div align="center">
+  <p>I’m currently open for an Intern or a job opportunity</p>
+</div>
+<div align="center" >
+  <p >Want to know more about me? You can visit my personal website from here 👉 www.luitelshashanka.com.np</p>
+</div>
 
 
 ###
