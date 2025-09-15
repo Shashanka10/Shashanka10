@@ -15,10 +15,6 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/shashanka10/count.svg?"  />
-</div>
-
-<div align="center">
   <a href="https://www.youtube.com/channel/UCtor7RdswFqEmNLTtIS4F8Q" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="44" height="32" alt="youtube logo"  />
   </a>
