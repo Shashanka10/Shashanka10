@@ -1,11 +1,11 @@
-![banner](https://user-images.githubusercontent.com/71580178/235372404-6f141b57-d692-43a3-b5e2-f753d394200c.png)
-<h1 align="center">Hi there 👋👋 Welcome (Namaste 🙏) 🇳🇵</h1>
+<img src="https://github.com/Shashanka10/Shashanka10/blob/main/bannergit.png" />
+<h1 align="center">Hi there 👋 Namaste! </h1>
 
 ###
 
-<p align="center">A front end developer and a tech enthusiast from Nepal </p> 
+<p align="center">A fullstack developer and a tech enthusiast from Nepal </p> 
 <div align="center">
-  <p>I’m currently open for an Intern or a job opportunity</p>
+  <p>I’m currently working as a Software Engineer in Citytech Pvt.Ltd.</p>
 </div>
 <div align="center" >
   <p >Want to know more about me? You can visit my personal website from here 👉 www.luitelshashanka.com.np</p>
