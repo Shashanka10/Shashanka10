@@ -49,14 +49,6 @@ src="https://gist.githubusercontent.com/ManulMax/2d20af60d709805c55fd784ca7cba4b
 
 ###
 ###
-
-<div align="center">
-<h4>[Shashanka's GitHub stats]</h4>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashanka10" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanka10&" alt="shashanka10" />
-
-</div>
-
 ###
 
 <div align="center">
